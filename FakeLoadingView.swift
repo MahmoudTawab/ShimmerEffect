@@ -2,7 +2,7 @@
 //  FakeLoadingView.swift
 //  Wafid
 //
-//  Created by almedadsoft on 09/04/2025.
+//  Created by Mahmoud on 09/04/2025.
 //
 
 import SwiftUI
